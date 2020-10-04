@@ -32,15 +32,18 @@ I have been working in Wipro Technologies since April 2019. :point_left:
 #### :computer: Languages / Tools that I have worked on:
 <p>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+    <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+    <code><img width="5%" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/css3.svg"></code>
+    <code><img width="5%" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/javascript/javascript.svg"></code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-    <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-    <code><img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-    <code><img width="5%" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/css3.svg"></code>
-    <code><img width="5%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"></code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></code>
+    <code><img width="5%" src="https://raw.githubusercontent.com/kogg/instant-logos/366075b24295ee9cdc3256e4756bb33c12465a2a/logos/Visual%20Studio.svg"></code>
+    <code><img width="5%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"></code>
+    <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1035px-Microsoft_SQL_Server_Logo.svg.png"></code>
+    <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg"></code>
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></code>
 </p>
 
 
