@@ -6,7 +6,7 @@
 
 Alternate github (it's messed up :worried:): 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/iam-doctor-j)
+[**@iam-doctor-j**](https://github.com/iam-doctor-j)
 
 I am a newbie developer :technologist: from India with a passion for computers and computer applications.
 <a target="_blank" href="https://api.whatsapp.com/send?phone=918895639457">
