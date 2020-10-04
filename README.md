@@ -5,18 +5,16 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jyotirmayasahu38@gmail.com)
 
 I am a newbie developer :technologist: from India with a passion for computers and computer applications.
-
-<p>
-    <a target="_blank" href="https://api.whatsapp.com/send?phone=918895639457">
-      <img align="left" alt="Whatsapp" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-    </a>
-    <a target="_blank" href="https://www.instagram.com/__jyotirmaya.sahu__/">
-      <img align="left" alt="Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-    </a>
-    <a target="_blank" href="https://www.facebook.com/jyotirmaya.sahu.10/">
-      <img align="left" alt="Facebook" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-    </a>
-</p>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=918895639457">
+  <img align="left" alt="Whatsapp" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/__jyotirmaya.sahu__/">
+  <img align="left" alt="Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" >
+</a>
+<a target="_blank" href="https://www.facebook.com/jyotirmaya.sahu.10/">
+  <img align="left" alt="Facebook" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br/>
 
 ### I work as a full stack (.NET stack) developer in Wipro technologies. 
 I have been working in Wipro Technologies since April 2019. :point_left:
