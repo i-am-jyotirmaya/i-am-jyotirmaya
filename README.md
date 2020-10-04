@@ -4,15 +4,17 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jyotirmaya-sahu-52052b133/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jyotirmayasahu38@gmail.com)
 
+Alternate github (it's messed up :worried:): [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/iam-doctor-j)
+
 I am a newbie developer :technologist: from India with a passion for computers and computer applications.
 <a target="_blank" href="https://api.whatsapp.com/send?phone=918895639457">
-  <img align="left" alt="Whatsapp" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="right" alt="Whatsapp" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/__jyotirmaya.sahu__/">
-  <img align="left" alt="Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" >
+  <img align="right" alt="Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" >
 </a>
 <a target="_blank" href="https://www.facebook.com/jyotirmaya.sahu.10/">
-  <img align="left" alt="Facebook" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="right" alt="Facebook" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
 
