@@ -20,8 +20,11 @@ I am a newbie developer :technologist: from India with a passion for computers a
 </a>
 <br/>
 
-### I work as a full stack (.NET stack) developer in Wipro technologies. 
-I have been working in Wipro Technologies since April 2019. :point_left:
+### I work as a backend (.NET) developer in Accenture. 
+I am working in Accenture since August 2021. :point_left:
+
+### I worked as a full stack developer in Wipro Technologies.
+Worked from April 2019 to August 2021.
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=i-am-jyotirmaya&show_icons=true&hide_border=true" />
@@ -30,7 +33,7 @@ I have been working in Wipro Technologies since April 2019. :point_left:
 #### 🌱 Things currently I am working upon:
 - Growing my roots deep into the grounds of computer applications :eyes:.
 - Increasing the effort contribution towards my personal projects to be reflected on github :muscle:.
-- Designing a simple small scale shopping platform for the web :sweat_smile:.
+- Doing Pesto Ninja Program :sweat_smile:.
 - My Day job :exploding_head:. 
 
 #### :computer: Languages / Tools that I have worked on:
