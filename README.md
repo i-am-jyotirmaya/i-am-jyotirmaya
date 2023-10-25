@@ -1,4 +1,4 @@
-### Hi, I am Jyotirmaya Sahu. 
+### Hi, I am Jyotirmaya. 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/i-am-jyotirmaya)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jyotirmaya-sahu-52052b133/)
@@ -8,7 +8,7 @@ Alternate github (it's messed up :worried:):
 
 [**@iam-doctor-j**](https://github.com/iam-doctor-j)
 
-I am a newbie developer :technologist: from India with a passion for computers and computer applications.
+I am a developer :technologist: from India with a passion for building great software and systems.
 <a target="_blank" href="https://api.whatsapp.com/send?phone=918895639457">
   <img alt="Whatsapp" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
@@ -20,11 +20,8 @@ I am a newbie developer :technologist: from India with a passion for computers a
 </a>
 <br/>
 
-### I work as a backend (.NET) developer in Accenture. 
-I am working in Accenture since August 2021. :point_left:
-
-### I worked as a full stack developer in Wipro Technologies.
-Worked from April 2019 to August 2021.
+### Alexa <img alt="Alexa" width="18px" src="https://camo.githubusercontent.com/ffe5aec4cd19b7fa49df2c95150156f6e7686c78f6aa4843b0135a9cefc6b965/68747470733a2f2f6d2e6d656469612d616d617a6f6e2e636f6d2f696d616765732f472f30312f6d6f62696c652d617070732f6465782f6176732f646f63732f75782f6272616e64696e672f6d61726b312e5f5454485f2e706e67" /> developer (Java) at Accenture. 
+I am a full time developer at Amazon. :point_left:
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=i-am-jyotirmaya&show_icons=true&hide_border=true" />
@@ -33,7 +30,6 @@ Worked from April 2019 to August 2021.
 #### 🌱 Things currently I am working upon:
 - Growing my roots deep into the grounds of computer applications :eyes:.
 - Increasing the effort contribution towards my personal projects to be reflected on github :muscle:.
-- Doing Pesto Ninja Program :sweat_smile:.
 - My Day job :exploding_head:. 
 
 #### :computer: Languages / Tools that I have worked on:
