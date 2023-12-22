@@ -20,7 +20,7 @@ I am a developer :technologist: from India with a passion for building great sof
 </a>
 <br/>
 
-### Alexa <img alt="Alexa" width="18px" src="https://camo.githubusercontent.com/ffe5aec4cd19b7fa49df2c95150156f6e7686c78f6aa4843b0135a9cefc6b965/68747470733a2f2f6d2e6d656469612d616d617a6f6e2e636f6d2f696d616765732f472f30312f6d6f62696c652d617070732f6465782f6176732f646f63732f75782f6272616e64696e672f6d61726b312e5f5454485f2e706e67" /> developer (Java) at Accenture. 
+### Alexa <img alt="Alexa" width="18px" src="https://camo.githubusercontent.com/ffe5aec4cd19b7fa49df2c95150156f6e7686c78f6aa4843b0135a9cefc6b965/68747470733a2f2f6d2e6d656469612d616d617a6f6e2e636f6d2f696d616765732f472f30312f6d6f62696c652d617070732f6465782f6176732f646f63732f75782f6272616e64696e672f6d61726b312e5f5454485f2e706e67" /> developer (Java) at Amazon. 
 I am a full time developer at Amazon. :point_left:
 
 <p>
