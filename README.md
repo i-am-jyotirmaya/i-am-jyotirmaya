@@ -26,6 +26,9 @@ I am a full time developer at Amazon. :point_left:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=i-am-jyotirmaya&show_icons=true&hide_border=true" />
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-jyotirmaya&show_icons=true&locale=en&layout=compact" alt="i-am-jyotirmaya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-jyotirmaya&" alt="i-am-jyotirmaya" /></p>
 
 #### 🌱 Things currently I am working upon:
 - Growing my roots deep into the grounds of computer applications :eyes:.
